@@ -1,5 +1,3 @@
-import numpy as np 
-import cv2
 from flask import Flask, request, jsonify, render_template
 
 
