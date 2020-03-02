@@ -1,6 +1,6 @@
 import pandas as pd
 from flask import Flask, request, jsonify, render_template
-
+import torch
 
     
 hindiLetters = ['क', 'ख', 'ग', 'घ',
